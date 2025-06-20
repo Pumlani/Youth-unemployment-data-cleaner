@@ -37,6 +37,7 @@ South Africa faces high youth unemployment. This script simulates a practical us
 **Pumlani Masebe**  
 📍 Butterworth, Eastern Cape, South Africa  
 💻 [GitHub Profile](https://github.com/Pumlani)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pumlanimasebe)  
 📧 pumlanimasebe89@gmail.com  
 
 ## 🔗 Related Skills
@@ -50,5 +51,3 @@ South Africa faces high youth unemployment. This script simulates a practical us
 ## ✅ Status
 
 Project complete and actively maintained.
-
----
