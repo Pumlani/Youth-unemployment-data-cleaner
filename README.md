@@ -1,62 +1,54 @@
-# 🧹 Youth Unemployment Data Cleaner – Butterworth Edition
+# Youth Unemployment Data Cleaner
 
-This project simulates a real-world data cleaning task using a fictional dataset of unemployed youth in Butterworth, South Africa.
+This is a Python project designed to clean and structure messy CSV data about unemployed youth in Butterworth, South Africa. The dataset includes personal and demographic info such as names, ages, contact details, provinces, and percentage contributions to the unemployment rate.
 
-The messy dataset includes common issues like inconsistent casing, invalid age entries, poorly formatted phone numbers, and typos in province names. The goal is to clean, validate, and standardize the data for further analysis or policy use.
+## 📌 Project Goals
 
----
+- Clean and validate age entries
+- Format inconsistent phone numbers
+- Standardize province names
+- Normalize percentage values
+- Output structured, usable data for reporting or analysis
 
-## 🧪 Sample Dataset Columns
+## 🛠️ Tech Stack
 
-- `Name`
-- `Last Name`
-- `Age`
-- `Phone Number`
-- `Province`
-- `Contribution (%)` (estimated contribution to unemployment rate)
+- **Language:** Python
+- **Libraries:** `pandas`, `re` (regex)
 
----
+## 🧪 How It Works
 
-## 🛠️ What This Script Does
+The script performs the following tasks:
+- Removes missing or corrupted rows
+- Fixes typos in province names (e.g. "eastrn cape" → "Eastern Cape")
+- Formats phone numbers to a consistent structure
+- Converts percent values to float format
+- Outputs a clean summary and sample table
 
-- ✅ Standardizes names and surnames
-- ✅ Validates and filters age values
-- ✅ Cleans and formats South African phone numbers
-- ✅ Normalizes province names
-- ✅ Converts contribution values to numeric format
-- ✅ Outputs a cleaned dataset: `cleaned_youth_unemployment.csv`
-- ✅ Prints a summary report of total entries, average age, and contribution stats
+## 📸 Sample Output
 
----
+![Cleaned Output](cleaned_output.png)
 
-## 🧰 Tech Stack
+## 💡 Why This Project Matters
 
-- Python 3
-- pandas
-- regex
-- (Runs well on Pydroid 3 mobile IDE)
+South Africa faces high youth unemployment. This script simulates a practical use case for civic tech: cleaning public or community-submitted data to uncover insights, support interventions, or generate reports for NGOs and government agencies.
 
----
-
-## 📊 Summary Report Example
-📊 Summary Report: 🧑 Total records after cleaning: 38 📍 Provinces in dataset: ['Eastern Cape', 'Gauteng', 'Western Cape'] 📈 Average age: 25.6 years 📊 Average contribution to unemployment: 6.42% 👥 Number of people per province: Eastern Cape    21 Gauteng         10 Western Cape     7
-
----
-
-## 📎 How to Use
-
-1. Place all files in the same directory
-2. Run `clean_youth_unemployment.py`
-3. View output and summary in terminal
-4. Check `cleaned_youth_unemployment.csv` for the final dataset
-
----
-
-## 📍 Author
+## 🧠 Author
 
 **Pumlani Masebe**  
-Software Developer | AI + Automation Learner | Based in South Africa  
-[GitHub Profile](https://github.com/Pumlani) | [LinkedIn](https://linkedin.com/in/pumlanimasebe)
+📍 Butterworth, Eastern Cape, South Africa  
+💻 [GitHub Profile](https://github.com/Pumlani)  
+📧 pumlanimasebe89@gmail.com  
 
+## 🔗 Related Skills
+
+- Python scripting
+- Data cleaning
+- Regex logic
+- Real-world data simulation
+- Civic tech problem-solving
+
+## ✅ Status
+
+Project complete and actively maintained.
 
 ---
