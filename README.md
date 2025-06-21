@@ -1,53 +1,33 @@
-# Youth Unemployment Data Cleaner
+# 👋 Hi, I'm Pumlani Masebe
 
-This is a Python project designed to clean and structure messy CSV data about unemployed youth in Butterworth, South Africa. The dataset includes personal and demographic info such as names, ages, contact details, provinces, and percentage contributions to the unemployment rate.
+I'm a GIS Software Developer with a strong background in coding, data cleaning, and civic tech solutions. I combine geospatial thinking with Python, JavaScript, and automation tools to solve real-world problems.
 
-## 📌 Project Goals
+## 🔧 Featured Projects
 
-- Clean and validate age entries
-- Format inconsistent phone numbers
-- Standardize province names
-- Normalize percentage values
-- Output structured, usable data for reporting or analysis
+- [Youth Unemployment Data Cleaner](https://github.com/pumlanimasebe/Youth-unemployment-data-cleaner)  
+  Python script that cleans and structures messy CSV data about unemployed youth in South Africa. Includes phone formatting, province standardization, and real-world reporting logic.
 
-## 🛠️ Tech Stack
+## 💼 Skills
 
-- **Language:** Python
-- **Libraries:** `pandas`, `re` (regex)
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Tools:** ExpressJS, Bootstrap, Simple Grid, ArcGIS, TNT software, pandas, Git
+- **Workflows:** Agile, Test Driven Development, Data Analysis, Team Collaboration
+- **Soft Skills:** Public Speaking, Self-Taught Growth, Remote Work Readiness
 
-## 🧪 How It Works
+## 🎓 Education & Certifications
 
-The script performs the following tasks:
-- Removes missing or corrupted rows
-- Fixes typos in province names (e.g. "eastrn cape" → "Eastern Cape")
-- Formats phone numbers to a consistent structure
-- Converts percent values to float format
-- Outputs a clean summary and sample table
+- BSc in Geology & GIS — University of Fort Hare, 2019  
+- Full-Stack Developer (Agile Bootcamp) — codeX, 2018  
+- YES4Youth GIS Internship — Chris Hani Development Center, 2023–2024  
+- NYDA Start Your Business Certificate
 
-## 📸 Sample Output
+## 🌍 Based in
 
-![Cleaned Output](cleaned_output.png)
-
-## 💡 Why This Project Matters
-
-South Africa faces high youth unemployment. This script simulates a practical use case for civic tech: cleaning public or community-submitted data to uncover insights, support interventions, or generate reports for NGOs and government agencies.
-
-## 🧠 Author
-
-**Pumlani Masebe**  
 📍 Butterworth, Eastern Cape, South Africa  
-💻 [GitHub Profile](https://github.com/Pumlani)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/pumlanimasebe)  
-📧 pumlanimasebe89@gmail.com  
+💬 Looking for remote internships, entry-level software/GIS roles, or freelance projects
 
-## 🔗 Related Skills
+## 🔗 Connect with Me
 
-- Python scripting
-- Data cleaning
-- Regex logic
-- Real-world data simulation
-- Civic tech problem-solving
-
-## ✅ Status
-
-Project complete and actively maintained.
+- [LinkedIn](https://www.linkedin.com/in/pumlanimasebe)
+- [GitHub](https://github.com/Pumani)
+- 📧 pumlanimasebe89@gmail.com
